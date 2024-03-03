@@ -7,7 +7,7 @@
 //#include <fstream>
 
 #ifndef __APPLE__
-#include "sys/vtimes.h"
+#include "sys/time.h"
 #endif
 
 namespace rrr {
